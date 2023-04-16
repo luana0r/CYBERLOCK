@@ -1,7 +1,7 @@
 # CYBERLOCK
 FL Group.
 
-Hi and welcome to the FL-Groups project!
+Hi and welcome to the FL-Group project!
 
 We are students from Argentina, pursuing careers in Cybersecurity and Programming, with expertise in both areas. Through these projects, we aim to develop skills in web development, including front-end and back-end, using languages such as Python, PHP, HTML, SQL, and more as needed.
 
